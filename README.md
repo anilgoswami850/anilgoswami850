@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anilgoswami850
 - 👀 I’m interested in Physics and Maths
 - 🌱 I’m currently learning Physics
-- 💞️ I’m looking to collaborate on 3Blue1Brown
 - 📫 How to reach me anilgoswamidhaulpur@gmail.com
 
 <!---
